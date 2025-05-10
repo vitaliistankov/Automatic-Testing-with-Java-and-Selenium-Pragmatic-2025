@@ -25,7 +25,7 @@ public class Computer {
         this.freeMemory = freeMemory;
         this.operationSystem = operationSystem;
     }
-    int comparePrice(Computer otherComp) {
+    int comparePrice(bg.pragmatic.lecture3package.Computer otherComp) {
         if (this.price > otherComp.price) {
             System.out.println("This computer (" + this.price + ") is more expensive than the other (" + otherComp.price + ").");
             return -1;

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ATSJ_HomeWorkCode.iml" filepath="$PROJECT_DIR$/ATSJ_HomeWorkCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWorkCode.iml" filepath="$PROJECT_DIR$/HomeWorkCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture1-HomeWork/Lecture1-HomeWork.iml" filepath="$PROJECT_DIR$/Lecture1-HomeWork/Lecture1-HomeWork.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture2-HomeWork_temp/Lecture2-HomeWork.iml" filepath="$PROJECT_DIR$/Lecture2-HomeWork_temp/Lecture2-HomeWork.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture3-Homework/Lecture3-Homework.iml" filepath="$PROJECT_DIR$/Lecture3-Homework/Lecture3-Homework.iml" />

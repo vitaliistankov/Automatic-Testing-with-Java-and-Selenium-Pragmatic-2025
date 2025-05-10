@@ -1,6 +1,8 @@
+package src;
+
 public class Student {
     String name;
-    String subject;
+    public String subject;
     double grade;
     int yearInCollege;
     int age;

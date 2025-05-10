@@ -1,3 +1,5 @@
+import bg.pragmatic.lecture6HomeWorkpkg.Student;
+
 public class College {
     public static void main(String[] args) {
 

@@ -1,3 +1,7 @@
+package src;
+
+import bg.pragmatic.lecture6HomeWorkpkg.Student;
+
 public class StudentGroup {
 
     String groupSubject;

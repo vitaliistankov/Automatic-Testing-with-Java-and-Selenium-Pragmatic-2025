@@ -1,3 +1,5 @@
+import bg.pragmatic.lecture3package.Computer;
+
 public class ComputerDemo {
 
     public static void main(String[] args) {
