@@ -1,6 +1,5 @@
-package src;
-
 public class Student {
+
     String name;
     public String subject;
     double grade;
@@ -52,6 +51,8 @@ public class Student {
 
     }
 
-
+    public String getSubject() {
+        return subject;
+    }
 }
 
