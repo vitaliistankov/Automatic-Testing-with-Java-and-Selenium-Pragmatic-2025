@@ -1,8 +1,8 @@
 
 public class Company {
-private String companyName;
-private int employersNumber;
-private boolean isFailed;
+    private String companyName;
+    private int employersNumber;
+    private boolean isFailed;
 
     public Company(String companyName, int employersNumber, boolean isFailed) {
         this.companyName = companyName;

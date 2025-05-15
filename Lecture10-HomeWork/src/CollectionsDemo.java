@@ -21,10 +21,5 @@ public class CollectionsDemo {
         b1.printInfo(c1);
 
 
-
-
-
-
-
     }
 }
