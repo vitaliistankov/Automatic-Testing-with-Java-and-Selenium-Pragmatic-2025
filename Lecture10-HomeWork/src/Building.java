@@ -15,24 +15,43 @@ public class Building {
         return buildingName;
     }
 
-    public void addCompany(Company company) {
-
+    public List<Company> addCompany(Company company) {
 
         if (companies.size() >= MAXCOMPANIES) {
             System.out.println("достигнат лимита на броят компании");
-            return; // въобще не се опитваме да я добавяме в сградата
+            return companies; // въобще не се опитваме да я добавяме в сградата
         }
 
         if (company.isFailed()) {
             System.out.println("няма място за фалирали компании в нашата сграда");
-            return; // НЕ се добавя в сградата
+            return companies; // НЕ се добавя в сградата
         }
 
         companies.add(company);
         System.out.println(company.getCompanyName());
         System.out.println("Брой на добавените компании: " + companies.size());
+        return companies;
 
     }
+
+//    public void addCompany(Company company) {
+
+
+//        if (companies.size() >= MAXCOMPANIES) {
+//            System.out.println("достигнат лимита на броят компании");
+//            return; // въобще не се опитваме да я добавяме в сградата
+//        }
+
+//        if (company.isFailed()) {
+//            System.out.println("няма място за фалирали компании в нашата сграда");
+//            return; // НЕ се добавя в сградата
+//        }
+
+//        companies.add(company);
+//        System.out.println(company.getCompanyName());
+//        System.out.println("Брой на добавените компании: " + companies.size());
+
+//    }
 
     public void printInfo(Company company) {
 

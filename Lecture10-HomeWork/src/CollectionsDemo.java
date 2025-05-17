@@ -19,6 +19,7 @@ public class CollectionsDemo {
 
 
         b1.printInfo(c1);
+        b2.printInfo(c3);
 
 
     }
