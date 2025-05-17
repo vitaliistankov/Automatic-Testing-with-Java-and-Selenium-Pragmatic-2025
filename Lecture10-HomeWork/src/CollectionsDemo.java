@@ -12,13 +12,16 @@ public class CollectionsDemo {
 
         b1.addCompany(c1);
 //        b1.addCompany(c2);
-        b2.addCompany(c2);
+
         b1.addCompany(c3);
         b1.addCompany(c4);
         b1.addCompany(c5);
 
-
+        System.out.println("------");
         b1.printInfo(c1);
+        System.out.println("------");
+        b2.addCompany(c2);
+        b2.addCompany(c3);
         b2.printInfo(c3);
 
 

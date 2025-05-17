@@ -15,7 +15,7 @@ public class Building {
         return buildingName;
     }
 
-    public List<Company> addCompany(Company company) {
+    public List<Company> addCompany (Company company) {
 
         if (companies.size() >= MAXCOMPANIES) {
             System.out.println("достигнат лимита на броят компании");
