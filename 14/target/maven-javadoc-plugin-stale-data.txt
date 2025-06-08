@@ -1,0 +1,49 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+17
+-sourcepath
+'C:/Pragmatic/HomeWorkCode/14/src/main/java;C:/Pragmatic/HomeWorkCode/14/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Pragmatic/HomeWorkCode/14/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'my-app 1.0-SNAPSHOT API'
+-header
+'Milen\'s Javadoc'
+-use
+-version
+-windowtitle
+'my-app 1.0-SNAPSHOT API'
+bg.pragmatic
+C:\Pragmatic\HomeWorkCode\14\src\main\java = 1749326646541
+C:\Pragmatic\HomeWorkCode\14\target\generated-sources\annotations = 1749330520113
+C:\Pragmatic\HomeWorkCode\14\target\apidocs\allclasses-index.html = 1749330526840
+C:\Pragmatic\HomeWorkCode\14\target\apidocs\allpackages-index.html = 1749330526844
+C:\Pragmatic\HomeWorkCode\14\target\apidocs\copy.svg = 1749330526966
+C:\Pragmatic\HomeWorkCode\14\target\apidocs\element-list = 1749330526615
+C:\Pragmatic\HomeWorkCode\14\target\apidocs\help-doc.html = 1749330526930
+C:\Pragmatic\HomeWorkCode\14\target\apidocs\index-all.html = 1749330526907
+C:\Pragmatic\HomeWorkCode\14\target\apidocs\index.html = 1749330526919
+C:\Pragmatic\HomeWorkCode\14\target\apidocs\link.svg = 1749330526969
+C:\Pragmatic\HomeWorkCode\14\target\apidocs\member-search-index.js = 1749330526854
+C:\Pragmatic\HomeWorkCode\14\target\apidocs\module-search-index.js = 1749330526847
+C:\Pragmatic\HomeWorkCode\14\target\apidocs\overview-tree.html = 1749330526800
+C:\Pragmatic\HomeWorkCode\14\target\apidocs\package-search-index.js = 1749330526849
+C:\Pragmatic\HomeWorkCode\14\target\apidocs\script.js = 1749330526963
+C:\Pragmatic\HomeWorkCode\14\target\apidocs\search-page.js = 1749330526981
+C:\Pragmatic\HomeWorkCode\14\target\apidocs\search.html = 1749330526913
+C:\Pragmatic\HomeWorkCode\14\target\apidocs\search.js = 1749330526977
+C:\Pragmatic\HomeWorkCode\14\target\apidocs\serialized-form.html = 1749330526685
+C:\Pragmatic\HomeWorkCode\14\target\apidocs\stylesheet.css = 1749330526956
+C:\Pragmatic\HomeWorkCode\14\target\apidocs\tag-search-index.js = 1749330526857
+C:\Pragmatic\HomeWorkCode\14\target\apidocs\type-search-index.js = 1749330526852
