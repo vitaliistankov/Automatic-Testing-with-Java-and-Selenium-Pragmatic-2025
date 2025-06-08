@@ -1,0 +1,49 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+17
+-sourcepath
+'C:/Pragmatic/HomeWorkCode/Lecture14-HomeWork/src/main/java;C:/Pragmatic/HomeWorkCode/Lecture14-HomeWork/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Pragmatic/HomeWorkCode/Lecture14-HomeWork/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'my-app 1.0-SNAPSHOT API'
+-header
+'Milen\'s Javadoc'
+-use
+-version
+-windowtitle
+'my-app 1.0-SNAPSHOT API'
+bg.pragmatic
+C:\Pragmatic\HomeWorkCode\Lecture14-HomeWork\src\main\java = 1749326646541
+C:\Pragmatic\HomeWorkCode\Lecture14-HomeWork\target\generated-sources\annotations = 1749411133778
+C:\Pragmatic\HomeWorkCode\Lecture14-HomeWork\target\apidocs\allclasses-index.html = 1749411138691
+C:\Pragmatic\HomeWorkCode\Lecture14-HomeWork\target\apidocs\allpackages-index.html = 1749411138696
+C:\Pragmatic\HomeWorkCode\Lecture14-HomeWork\target\apidocs\copy.svg = 1749411138788
+C:\Pragmatic\HomeWorkCode\Lecture14-HomeWork\target\apidocs\element-list = 1749411138516
+C:\Pragmatic\HomeWorkCode\Lecture14-HomeWork\target\apidocs\help-doc.html = 1749411138775
+C:\Pragmatic\HomeWorkCode\Lecture14-HomeWork\target\apidocs\index-all.html = 1749411138755
+C:\Pragmatic\HomeWorkCode\Lecture14-HomeWork\target\apidocs\index.html = 1749411138767
+C:\Pragmatic\HomeWorkCode\Lecture14-HomeWork\target\apidocs\link.svg = 1749411138791
+C:\Pragmatic\HomeWorkCode\Lecture14-HomeWork\target\apidocs\member-search-index.js = 1749411138705
+C:\Pragmatic\HomeWorkCode\Lecture14-HomeWork\target\apidocs\module-search-index.js = 1749411138698
+C:\Pragmatic\HomeWorkCode\Lecture14-HomeWork\target\apidocs\overview-tree.html = 1749411138651
+C:\Pragmatic\HomeWorkCode\Lecture14-HomeWork\target\apidocs\package-search-index.js = 1749411138700
+C:\Pragmatic\HomeWorkCode\Lecture14-HomeWork\target\apidocs\script.js = 1749411138786
+C:\Pragmatic\HomeWorkCode\Lecture14-HomeWork\target\apidocs\search-page.js = 1749411138830
+C:\Pragmatic\HomeWorkCode\Lecture14-HomeWork\target\apidocs\search.html = 1749411138763
+C:\Pragmatic\HomeWorkCode\Lecture14-HomeWork\target\apidocs\search.js = 1749411138825
+C:\Pragmatic\HomeWorkCode\Lecture14-HomeWork\target\apidocs\serialized-form.html = 1749411138568
+C:\Pragmatic\HomeWorkCode\Lecture14-HomeWork\target\apidocs\stylesheet.css = 1749411138783
+C:\Pragmatic\HomeWorkCode\Lecture14-HomeWork\target\apidocs\tag-search-index.js = 1749411138707
+C:\Pragmatic\HomeWorkCode\Lecture14-HomeWork\target\apidocs\type-search-index.js = 1749411138702
