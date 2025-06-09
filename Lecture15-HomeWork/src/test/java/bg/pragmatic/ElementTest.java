@@ -39,8 +39,8 @@ public class ElementTest {
 
         // Assert login success by checking for a post-login element
 //        WebElement dashboardStatsElement = driver.findElement(By.id("stats"));
-        WebElement dashboardStatsElement = driver.findElement(By.id("container"));
-        Assert.assertTrue(dashboardStatsElement.isDisplayed(), "Dashboard should be visible after successful login.");
+        WebElement dashboardElement = driver.findElement(By.id("container"));
+        Assert.assertTrue(dashboardElement.isDisplayed(), "Dashboard should be visible after successful login.");
     }
 
     @AfterClass
